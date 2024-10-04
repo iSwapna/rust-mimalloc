@@ -1,3 +1,3 @@
 # rust-mimalloc
 
-Add mimalloc as an alternative to jemalloc and system malloc for rust
+Add mimalloc v2 as the default as opposed to jemalloc for rust
